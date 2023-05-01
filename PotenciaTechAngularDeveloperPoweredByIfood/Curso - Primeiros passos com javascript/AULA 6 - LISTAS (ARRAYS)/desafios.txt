@@ -1,0 +1,4 @@
+1 - Crie um programa que dado um número impria a sua tabuada. 
+2 - Crie um programa que seja capaz de percorrer um alista de números e imprima cada número Par encontrado. 
+
+
